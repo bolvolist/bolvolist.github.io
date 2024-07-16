@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bolvolist.github.io/sitemap
+Sitemap: https://bolvolist.github.io/app/sitemap
+Sitemap: https://bolvolist.github.io/assets/sitemap
+Sitemap: https://bolvolist.github.io/css/sitemap
+Sitemap: https://bolvolist.github.io/includes/sitemap
+Sitemap: https://bolvolist.github.io/item/sitemap
+Sitemap: https://bolvolist.github.io/src/sitemap
